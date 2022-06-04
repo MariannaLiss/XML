@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <Name>Lisitsyna Marianna Konstantinovna</name>
-  <Age>33</age>
-  <Animalks>0</pets>
-  <Salary>700</desired_salary>
+  <name>Lisitsyna Marianna Konstantinovna</name>
+  <age>33</age>
+  <animals>0</animals>
+  <salary>700</salary>
 </root>
